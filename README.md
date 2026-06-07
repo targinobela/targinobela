@@ -15,7 +15,8 @@
 
 <p align="left">
   ⚙️ <strong>Tech Stack: </strong><br>
-  Backend & APIs: Spring Boot<br>
+  Languages: Java, Python, Javascript<br>
+  Frameworks: SpringBoot, Tailwind, React
   Cloud & Infrastructure: AWS<br>
   Databases: DynamoDB and MySQL<br>
   Containeres: Docker<br>
